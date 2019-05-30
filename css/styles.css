@@ -1,0 +1,17 @@
+
+
+
+.analog p a {
+  background-color: yellow;
+  color: green;
+  font-weight: bold;
+}
+.digital p a {
+  background-color: red;
+  font-style: italic;
+}
+
+a {
+  font-style: italic;
+  color: pink;
+}
